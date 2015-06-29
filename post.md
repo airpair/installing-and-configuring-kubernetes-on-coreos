@@ -8,7 +8,7 @@ In this post I will take you through
 * Setting up Cluster Services
 * Enabling the Services
 
-## Launch CoreOS Cluster on Amazon EC2
+## Launch CoreOS Cluster
 We will start with a three node CoreOS clusters, this tutorial I'm using [Vagrant](https://github.com/coreos/coreos-vagrant) VM for my development sandbox. I've create a [Gist](https://gist.github.com/dalekurt/5c0dbaf26b96f4504011) of my current Vagrant sandbox.
 
 ```
